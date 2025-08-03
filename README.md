@@ -1,7 +1,7 @@
 # Nerf-and-3DGS
 implementation of NERF and 3DGS
 
-## Acknowledgements
+## Acknowledgements and references
 
 This project referenced files from the following repositories:
 
